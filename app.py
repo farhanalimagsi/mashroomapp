@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-pip install matplotlib.pyplot
+pip install matplotlib
 import matplotlib.pyplot as plt
 from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegression
